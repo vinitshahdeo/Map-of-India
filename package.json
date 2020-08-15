@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/vinitshahdeo/Map-of-India/issues"
   },
-  "homepage": "https://github.com/vinitshahdeo/Map-of-India#readme",
+  "homepage": "https://vinitshahdeo.github.io/Map-of-India/",
   "dependencies": {
     "chalk": "^4.1.0",
     "figlet": "^1.5.0"
