@@ -6,7 +6,8 @@
 <h1 align="center">Map of India</h1>
 <p align="center">
   <a href="https://github.com/vinitshahdeo/Map-of-India/stargazers">
-    <img src="https://img.shields.io/github/stars/vinitshahdeo/Map-of-India?label=Leave%20a%20star%20on%20GitHub&logo=github&style=flat&colorA=critical&colorB=grey"/>     </a>
+    <img src="https://img.shields.io/github/stars/vinitshahdeo/Map-of-India?label=Leave%20a%20star%20on%20GitHub&logo=github&style=flat&color=critical"/>     
+  </a>
   <a href="https://github.com/vinitshahdeo/Map-of-India">
     <img src="https://img.shields.io/badge/Happy%20Independence-Day-blue" />
   </a>
