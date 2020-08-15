@@ -26,6 +26,24 @@ cd src && cat index.js
 
 Navigate to `src/` folder and check out [`index.js`](https://github.com/vinitshahdeo/Map-of-India/blob/master/src/index.js).
 
+```javascript
+
+  _   _                                                           
+ | | | | __ _ _ __  _ __  _   _                                   
+ | |_| |/ _` | '_ \| '_ \| | | |                                  
+ |  _  | (_| | |_) | |_) | |_| |                                  
+ |_|_|_|\__,_| .__/| .__/ \__, |            _                     
+ |_ _|_ __   |_| | |_| _ _|___/__ _ __   __| | ___ _ __   ___ ___ 
+  | || '_ \ / _` |/ _ \ '_ \ / _ \ '_ \ / _` |/ _ \ '_ \ / __/ _ \
+  | || | | | (_| |  __/ |_) |  __/ | | | (_| |  __/ | | | (_|  __/
+ |___|_| |_|\__,_|\___| .__/ \___|_| |_|\__,_|\___|_| |_|\___\___|
+ |  _ \  __ _ _   _   |_|                                         
+ | | | |/ _` | | | |                                              
+ | |_| | (_| | |_| |                                              
+ |____/ \__,_|\__, |                                              
+              |___/                                               
+```
+
 ### Dependencies
 
 - [Figlet](https://www.npmjs.com/package/figlet): An NPM module used to turn a string into ASCII art.
@@ -41,3 +59,16 @@ This repository is inspired from a StackOverflow [thread](https://stackoverflow.
 **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**
 
 [![Follow on Twitter @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+
+
+---
+
+```javascript
+
+if (_.isAwesome(thisRepo)) {
+  thisRepo.star(); // thanks in advance :p
+}
+
+```
+
+---
