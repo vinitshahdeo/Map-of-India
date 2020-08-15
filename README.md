@@ -24,7 +24,7 @@ npm install && npm start
 cd src && cat index.js
 ```
 
-Navigate to `src/` folder and check out [`index.js`]().
+Navigate to `src/` folder and check out [`index.js`](https://github.com/vinitshahdeo/Map-of-India/blob/master/src/index.js).
 
 ### Dependencies
 
