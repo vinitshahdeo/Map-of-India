@@ -2,23 +2,23 @@
 <h1 align="center">Map of India :india:</h1>
 <h2 align="center"> A Node.js script to generate Map of India in terminal </h2>
 
-### Quick Start
+### Quick Start :technologist: 
 
 Open your terminal and run `npm start`
 
-### Setup
+### Setup :gear:
 
 ```bash
 npm install && npm start
 ```
 
-### Commands
+### Commands :rocket: 
 
 - `npm run draw`: Prints **Map of India** :india: in the terminal
 
 - `npm run wish`: Prints a **Happy Independence Day** message in the terminal
 
-### Explained
+### Explained :building_construction:
 
 ```bash
 cd src && cat index.js
@@ -44,17 +44,17 @@ Navigate to `src/` folder and check out [`index.js`](https://github.com/vinitsha
               |___/                                               
 ```
 
-### Dependencies
+### Dependencies :tada: 
 
 - [Figlet](https://www.npmjs.com/package/figlet): An NPM module used to turn a string into ASCII art.
 
 - [Chalk](https://www.npmjs.com/package/chalk): An NPM module used for terminal string styling.
 
-### Acknowledgement
+### Acknowledgement :hugs:
 
 This repository is inspired from a StackOverflow [thread](https://stackoverflow.com/questions/3533348/how-does-this-code-generate-the-map-of-india).
 
-### Author
+### Author :trophy:
 
 **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**
 
