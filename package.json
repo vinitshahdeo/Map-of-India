@@ -1,0 +1,33 @@
+{
+  "name": "map-of-india",
+  "version": "1.0.0",
+  "description": "A Node.js program to generate Map Of India in terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitshahdeo/Map-of-India.git"
+  },
+  "keywords": [
+    "map",
+    "india",
+    "nodejs",
+    "independence",
+    "day",
+    "tiranga",
+    "hindustan",
+    "bharat"
+  ],
+  "author": "Vinit Shahdeo <vinitshahdeo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinitshahdeo/Map-of-India/issues"
+  },
+  "homepage": "https://github.com/vinitshahdeo/Map-of-India#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0"
+  }
+}
