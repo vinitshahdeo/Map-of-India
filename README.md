@@ -19,7 +19,7 @@
   </a>
 </p>
 <p align="center"><img src="./assets/cropped-xxs.png" /></p>
-<h2 align="center"> A Node.js script to generate <a href="https://vinitshahdeo.github.io/Map-of-India/">Map of India</a> in terminal </h2>
+<h2 align="center"> A Node.js script to generate the <a href="https://vinitshahdeo.github.io/Map-of-India/">Map of India</a> in terminal </h2>
 
 
 ### Quick Start :rocket: 
