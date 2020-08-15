@@ -1,6 +1,12 @@
 <p align="center"><img src="https://www.pngmart.com/files/7/India-Map-Transparent-PNG.png" width="20%" height="20%" />
 <h1 align="center">Map of India :india:</h1>
+<p align="center">
+  <a href="https://github.com/vinitshahdeo/Map-of-India/stargazers"><img src="https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=Leave%20a%20star%20on%20GitHub&logo=github&style=flat&colorA=critical&colorB=grey"/></a>
+  <a href="https://github.com/vinitshahdeo/Map-of-India"><img src="https://img.shields.io/badge/Happy%20Independence-Day-blue" /></a>
+  <a href="https://github.com/vinitshahdeo/Map-of-India/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/jobtweets?color=green&logo=github"></a>
+</p>
 <h2 align="center"> A Node.js script to generate Map of India in terminal </h2>
+
 
 ### Quick Start :technologist: 
 
@@ -52,7 +58,9 @@ Navigate to `src/` folder and check out [`index.js`](https://github.com/vinitsha
 
 ### Acknowledgement :hugs:
 
-This repository is inspired from a StackOverflow [thread](https://stackoverflow.com/questions/3533348/how-does-this-code-generate-the-map-of-india).
+- The image used in this repo is taken from [here](https://www.pngmart.com/files/7/India-Map-Transparent-PNG.png).
+
+- This repository is inspired from a StackOverflow [thread](https://stackoverflow.com/questions/3533348/how-does-this-code-generate-the-map-of-india).
 
 ### Author :trophy:
 
