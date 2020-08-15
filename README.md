@@ -1,12 +1,12 @@
-<p align="center"><img src="./assets/map-of-india.png" width="20%" height="20%" />
+<p align="center"><img src="./assets/map-of-india.png" width="20%" height="20%" /></p>
 <h1 align="center">Map of India :india:</h1>
 <p align="center">
   <a href="https://github.com/vinitshahdeo/Map-of-India/stargazers"><img src="https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=Leave%20a%20star%20on%20GitHub&logo=github&style=flat&colorA=critical&colorB=grey"/></a>
   <a href="https://github.com/vinitshahdeo/Map-of-India"><img src="https://img.shields.io/badge/Happy%20Independence-Day-blue" /></a>
   <a href="https://github.com/vinitshahdeo/Map-of-India/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/jobtweets?color=green&logo=github"></a>
 </p>
+<p align="center"><img src="./assets/cropped.png" /></p>
 <h2 align="center"> A Node.js script to generate Map of India in terminal </h2>
-
 
 ### Quick Start :technologist: 
 
