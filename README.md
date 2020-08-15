@@ -13,6 +13,9 @@
   <a href="https://github.com/vinitshahdeo/Map-of-India/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/vinitshahdeo/Map-of-India?color=green&logo=github">
   </a>
+  <a href="https://github.com/vinitshahdeo">
+    <img src="https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=flat&color=yellow&logo=github" />
+  </a>
 </p>
 <p align="center"><img src="./assets/cropped-xxs.png" /></p>
 <h2 align="center"> A Node.js script to generate <a href="https://vinitshahdeo.github.io/Map-of-India/">Map of India</a> in terminal </h2>
