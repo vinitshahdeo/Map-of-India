@@ -2,7 +2,7 @@
 <h1 align="center">Map of India :india:</h1>
 <h2 align="center"> A Node.js script to generate Map of India in terminal </h2>
 
-### TL; DR
+### Quick Start
 
 Open your terminal and run `npm start`
 
@@ -17,6 +17,14 @@ npm install && npm start
 - `npm run draw`: Prints **Map of India** :india: in the terminal
 
 - `npm run wish`: Prints a **Happy Independence Day** message in the terminal
+
+### Explained
+
+```bash
+cd src && cat index.js
+```
+
+Navigate to `src/` folder and check out [`index.js`]().
 
 ### Dependencies
 
