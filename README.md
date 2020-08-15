@@ -109,6 +109,8 @@ Navigate to `src/` folder and check out [`index.js`](https://github.com/vinitsha
 
 - **Retweet** [this](https://twitter.com/Vinit_Shahdeo/status/1294487868455284736)! :repeat:
 
+- Read my open-source journey: **[If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)**!
+
 ### Acknowledgement :hugs:
 
 - The image used in this repo is taken from [here](https://www.pngmart.com/files/7/India-Map-Transparent-PNG.png).
