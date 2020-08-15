@@ -1,3 +1,7 @@
+/**
+ * 
+ * @author Vinit Shahdeo <vinitshahdeo@gmail.com>
+ */
 const figlet = require("figlet"),
     chalk = require("chalk"),
     log = console.log;
