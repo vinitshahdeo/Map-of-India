@@ -74,6 +74,8 @@ Navigate to `src/` folder and check out [`index.js`](https://github.com/vinitsha
 
 ### Author :trophy:
 
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Map-of-India/images/0)](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Map-of-India/images/1)](https://technovans.com/vinit-shahdeo-sharing-his-it-career-journey/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Map-of-India/images/2)](https://technovans.com/vinit-shahdeo-sharing-his-it-career-journey/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Map-of-India/images/3)](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Map-of-India/images/4)](https://twitter.com/Vinit_Shahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Map-of-India/images/5)](https://twitter.com/Vinit_Shahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Map-of-India/images/6)](https://twitter.com/Vinit_Shahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Map-of-India/images/7)](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)
+
 **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**
 
 [![Follow on Twitter @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
