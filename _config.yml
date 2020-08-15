@@ -1,2 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Map of India
+plugins:
+  - jemoji
