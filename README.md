@@ -103,6 +103,12 @@ Navigate to `src/` folder and check out [`index.js`](https://github.com/vinitsha
 
 - [Chalk](https://www.npmjs.com/package/chalk): An NPM module used for terminal string styling.
 
+### Support :heart:
+
+- Do share my **Dev.to** article: **[Code to generate the Map of India using Node.js](https://dev.to/vinitshahdeo/code-to-generate-the-map-of-india-using-node-js-3i06)**
+
+- **Retweet** [this](https://twitter.com/Vinit_Shahdeo/status/1294487868455284736)! :repeat:
+
 ### Acknowledgement :hugs:
 
 - The image used in this repo is taken from [here](https://www.pngmart.com/files/7/India-Map-Transparent-PNG.png).
