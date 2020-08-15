@@ -17,7 +17,8 @@
 <p align="center"><img src="./assets/cropped-xxs.png" /></p>
 <h2 align="center"> A Node.js script to generate Map of India in terminal </h2>
 
-### Quick Start :technologist: 
+
+### Quick Start :rocket: 
 
 Open your terminal and run `npm start`
 
@@ -27,7 +28,7 @@ Open your terminal and run `npm start`
 npm install && npm start
 ```
 
-### Commands :rocket: 
+### Commands :fire: 
 
 - `npm run draw`: Prints **Map of India** :india: in the terminal
 
