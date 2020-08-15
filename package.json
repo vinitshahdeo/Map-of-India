@@ -4,7 +4,9 @@
   "description": "A Node.js program to generate Map Of India in terminal",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "wish": "node src/independence.js",
+    "draw": "node src/index.js"
   },
   "repository": {
     "type": "git",
