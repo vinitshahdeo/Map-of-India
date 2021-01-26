@@ -46,6 +46,13 @@ cd src && cat index.js
 
 Navigate to `src/` folder and check out [`index.js`](https://github.com/vinitshahdeo/Map-of-India/blob/master/src/index.js).
 
+> **For the binary version of the map, please checkout [`republic day/index.js`](https://github.com/vinitshahdeo/Map-of-India/blob/master/republic%20day/index.js)**.
+
+```bash
+cd republic\ day
+node index.js
+```
+
 ```javascript
 
 
