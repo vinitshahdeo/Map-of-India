@@ -118,6 +118,8 @@ node index.js
 
 - Read my open-source journey: **[If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)**!
 
+- Read my **Thank You Note**: [My journey from 0 to 1K followers on GitHub](https://dev.to/vinitshahdeo/my-journey-from-0-to-1k-followers-on-github-1n6h) :blue_heart:
+
 ### Acknowledgement :hugs:
 
 - The image used in this repo is taken from [here](https://www.pngmart.com/files/7/India-Map-Transparent-PNG.png).
