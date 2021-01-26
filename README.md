@@ -120,6 +120,8 @@ node index.js
 
 - Read my **Thank You Note**: [My journey from 0 to 1K followers on GitHub](https://dev.to/vinitshahdeo/my-journey-from-0-to-1k-followers-on-github-1n6h) :blue_heart:
 
+- Leave a star [here](https://github.com/vinitshahdeo/Map-of-India/stargazers) :star:
+
 ### Acknowledgement :hugs:
 
 - The image used in this repo is taken from [here](https://www.pngmart.com/files/7/India-Map-Transparent-PNG.png).
