@@ -4,14 +4,17 @@
  * 
  * @author: Vinit Shahdeo <vinitshahdeo@gmail.com>
  */
-const MAGIC_STRING = "TFy!QJu ROo TNn(ROo)SLq SLq ULo+UHs UJq TNn*RPn/QPbEWS_JSWQAIJO^NBELPeHBFHT}TnALVlBLOFAkHFOuFETpHCStHAUFAgcEAelclcn^r^r\\tZvYxXyT|S~Pn SPm SOn TNn ULo0ULo#ULo-WHq!WFs XDt!"; 
-
+const MAGIC_STRING = "S'!F'!x P'!J'!t Q'!O'!n S'!N'!m Q'!O'!n R'!L'!p R'!L'!p T'!L'!n T'!H'!r T'!J'!p S'!N'!m Q'!P'!m P'!P'!`'!E'!U'!S'!]'!J'!Q'!W'!O'!A'!G'!J'!M'!^'!L'!B'!C'!L'!N'!e'!F'!B'!D'!H'!S'!}'!R'!nAL'!T'!lBL'!M'!FAkHF'!M'!uFE'!R'!pHC'!Q'!tHA'!S'!FAg'!a'!EAe'!j'!c'!j'!c'!m'!^'!q'!^'!p'!\\s'!Z'!u'!Y'!v'!X'!w'!T'!z'!S'!|'!P'!m R'!P'!l R'!O'!l S'!N'!m T'!L'!n T'!L'!n T'!L'!m-V'!H'!p!V'!F'!r W'!D'!s!"
 var _logCounter = 0,
     _magicCounter = MAGIC_STRING.charCodeAt(_logCounter),
     _newLineCounter = 10;
 
 while (_magicCounter !== 0) { 
     _magicCounter = MAGIC_STRING.charCodeAt(_logCounter);
+    if(_magicCounter===39){
+        process.stdout.write("-")
+        _newLineCounter++
+      }
     _logCounter++;
     while (_magicCounter > 64) {   
         _magicCounter--;
