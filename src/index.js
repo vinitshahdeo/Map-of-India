@@ -4,8 +4,7 @@
  * 
  * @author: Vinit Shahdeo <vinitshahdeo@gmail.com>
  */
-const MAGIC_STRING = "TFy!QJu ROo TNn(ROo)SLq SLq ULo+UHs UJq TNn*RPn/QPbEWS_JSWQAIJO^NBELPeHBFHT}TnALVlBLOFAkHFOuFETpHCStHAUFAgcEAelclcn^r^r\\tZvYxXyT|S~Pn SPm SOn TNn ULo0ULo#ULo-WHq!WFs XDt!"; 
-
+const MAGIC_STRING = "TFy!QJu ROo TNn(ROo)SLq SLq ULo+UHs UJq TNn*RPn/QPbEWS_JSWQAIJO^NBELPeHBFHT}TnALVlBLOFAkHFOuFETpHCStHAUFAgcEAelclcn^r^r\\tZvYxXyT|S~Pn SPm SO]BO JAIN\\BP IAAAIL\\BQ UL\\AR#ULo-WHq!LAJFbAP XDcAP!^0bBN!^0cAN";
 var _logCounter = 0,
     _magicCounter = MAGIC_STRING.charCodeAt(_logCounter),
     _newLineCounter = 10;
