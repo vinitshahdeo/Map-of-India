@@ -4,6 +4,7 @@
  * 
  * @author: Vinit Shahdeo <vinitshahdeo@gmail.com>
  */
+
 const MAGIC_STRING = "TFy!QJu ROo TNn(ROo)SLq SLq ULo+UHs UJq TNn*RPn/QPbEWS_JSWQAIJO^NBELPeHBFHT}TnALVlBLOFAkHFOuFETpHCStHAUFAgcEAelclcn^r^r\\tZvYxXyT|S~Pn SPm SOn TNn ULo0ULo#ULo-WHq!WFs XDt!"; 
 
 var _logCounter = 0,
@@ -44,6 +45,7 @@ while (_magicCounter !== 0) {
  |_____/ \__,_|\__, |                                                
                 __/ |                                                
                |___/                                                 
+
 
 With <3 from @vinitshahdeo
  */
