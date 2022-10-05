@@ -22,7 +22,7 @@
 <h2 align="center"> A Node.js script to generate the <a href="https://vinitshahdeo.github.io/Map-of-India/">Map of India</a> in terminal </h2>
 
 
-### Quick Start :rocket: 
+### Quick Start Guide :rocket: 
 
 Open your terminal and run `npm start`
 
