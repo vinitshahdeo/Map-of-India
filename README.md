@@ -139,14 +139,4 @@ node index.js
 [![Follow on Twitter @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
 
----
 
-```javascript
-
-if (_.isAwesome(thisRepo)) {
-  thisRepo.star(); // thanks in advance :p
-}
-
-```
-
----
